@@ -1,0 +1,15 @@
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\bin\Debug\net6.0\VCSTaskApp.exe
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\bin\Debug\net6.0\VCSTaskApp.deps.json
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\bin\Debug\net6.0\VCSTaskApp.runtimeconfig.json
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\bin\Debug\net6.0\VCSTaskApp.dll
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\bin\Debug\net6.0\ref\VCSTaskApp.dll
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\bin\Debug\net6.0\VCSTaskApp.pdb
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.csproj.AssemblyReference.cache
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.AssemblyInfoInputs.cache
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.AssemblyInfo.cs
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.csproj.CoreCompileInputs.cache
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.dll
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\ref\VCSTaskApp.dll
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.pdb
+C:\Users\rodio\Desktop\amdaris_internship\vcs\amdaris_internship_vcs_task\VCSTaskApp\VCSTaskApp\obj\Debug\net6.0\VCSTaskApp.genruntimeconfig.cache

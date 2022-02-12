@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rodio\\Desktop\\amdaris_internship\\vcs\\amdaris_internship_vcs_task\\VCSTaskApp\\VCSTaskApp\\VCSTaskApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rodio\\Desktop\\amdaris_internship\\vcs\\amdaris_internship_vcs_task\\VCSTaskApp\\VCSTaskApp\\VCSTaskApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rodio\\Desktop\\amdaris_internship\\vcs\\amdaris_internship_vcs_task\\VCSTaskApp\\VCSTaskApp\\VCSTaskApp.csproj",
+        "projectName": "VCSTaskApp",
+        "projectPath": "C:\\Users\\rodio\\Desktop\\amdaris_internship\\vcs\\amdaris_internship_vcs_task\\VCSTaskApp\\VCSTaskApp\\VCSTaskApp.csproj",
+        "packagesPath": "C:\\Users\\rodio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rodio\\Desktop\\amdaris_internship\\vcs\\amdaris_internship_vcs_task\\VCSTaskApp\\VCSTaskApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
