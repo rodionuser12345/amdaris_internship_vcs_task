@@ -11,6 +11,7 @@ namespace basic {
             Console.WriteLine(Area(2));
             Console.WriteLine(Area(3.02));
             Console.WriteLine(Area(2.2, 3.3));
+            Console.WriteLine("Add something new for feature 3");
 
         }
 
